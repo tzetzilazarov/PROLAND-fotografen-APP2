@@ -1,2 +1,2 @@
-# PROLAND-fotografen-APP2
+# PROLAND-fotografen-APP
 Created with CodeSandbox
